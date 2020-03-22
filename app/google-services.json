@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "585867803387",
+    "firebase_url": "https://safehome-aef40.firebaseio.com",
+    "project_id": "safehome-aef40",
+    "storage_bucket": "safehome-aef40.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585867803387:android:5e6f4bc2208f321c424e5e",
+        "android_client_info": {
+          "package_name": "edu.temple.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "585867803387-3o2sf0me0784d0pdrdnkujkvue6hg3cl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhNn6COYAPxymHRPVZdDY_4JYf40C8UWc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "585867803387-3o2sf0me0784d0pdrdnkujkvue6hg3cl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585867803387:android:4752df0970f52627424e5e",
+        "android_client_info": {
+          "package_name": "edu.temple.safehomeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "585867803387-3o2sf0me0784d0pdrdnkujkvue6hg3cl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhNn6COYAPxymHRPVZdDY_4JYf40C8UWc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "585867803387-3o2sf0me0784d0pdrdnkujkvue6hg3cl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585867803387:android:69c191dcf3d14a62424e5e",
+        "android_client_info": {
+          "package_name": "edu.temple.testfcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "585867803387-3o2sf0me0784d0pdrdnkujkvue6hg3cl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhNn6COYAPxymHRPVZdDY_4JYf40C8UWc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "585867803387-3o2sf0me0784d0pdrdnkujkvue6hg3cl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
